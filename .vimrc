@@ -178,6 +178,6 @@ filetype plugin indent on
 """ Vundle bundles ~/.vim/bundle/ """
 Bundle 'mattn/webapi-vim'
 Bundle 'mattn/gist-vim'
-
-
+Bundle 'scrooloose/nerdtree'
+map <C-n> :NERDTreeToggle<CR>
 "------------------------------------------------------------
