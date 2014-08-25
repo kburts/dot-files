@@ -6,5 +6,8 @@
 * Vundle bundles
 
 ## Easy Install:
-  git clone
+  git clone https://github.com/kburts/dot-files
+  
+  cd dot-files
+  
   sh setup.sh
