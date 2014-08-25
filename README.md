@@ -4,6 +4,9 @@
 * .vimrc
 * .tmux.conf
 * Vundle bundles
+  * webapi-vim
+  * gist-vim
+  * nerdtree
 
 ## Easy Install:
   git clone https://github.com/kburts/dot-files
